@@ -1,22 +1,11 @@
-# fizzbuzz
+# Kata 1/10 - Fizzbuzz
 
-A Clojure library designed to ... well, that part is up to you.
+The FizzBuzz Problem:
+
+Print integers from 1 to 101, but printing "Fizz" if an integer is divisible by 3, "Buzz" if an integer is divisible by 5,
+and FizzBuzz if an integer is divisible by both 3 and 5.
 
 ## Usage
 
-FIXME
+This repository is part of my personal challenge of solving katas during 10 days consecutives using Clojure.
 
-## License
-
-Copyright © 2022 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
